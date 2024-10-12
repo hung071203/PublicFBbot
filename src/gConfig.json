@@ -1,0 +1,31 @@
+{
+  "ACC": "",
+  "PASSWORD": "",
+  "AUTH_CODE_SECRET": "",
+  "BOTNAME": "BOT CUA HUNG",
+  "PREFIX": "!",
+  "ADMINBOT": [
+    "100090683697195"
+  ],
+  "DEV": [
+    "100090683697195"
+  ],
+  "MAIL": "nguyenmanhhung071203@gmail.com",
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "autoMarkRead": true,
+    "selfListen": false,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36"
+  },
+  "Role": [
+    "DEV",
+    "ADMIN",
+    "QTV",
+    "MEMBER",
+    "ALLWAY"
+  ],
+  "threadRS": "",
+  "TIMERS": 1728206778531,
+  "STARTTIME": ""
+}
